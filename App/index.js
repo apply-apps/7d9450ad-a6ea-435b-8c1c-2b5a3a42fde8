@@ -14,71 +14,78 @@ import {
 
 const StoryGenerator = (topic) => {
     const stories = {
-        princess: `Once upon a time in a faraway kingdom, there was a brave princess named Isabella who loved to explore. One sunny morning, Isabella set out on an adventure through the castle gardens. As she wandered, she stumbled upon a hidden door covered in ivy. With a sense of excitement, she pushed the door open and stepped inside.
+        unicorn: `In a hidden glade within the mystical forest of Elarion, there lived a unique unicorn named Lyria. Lyria's horn was not just a symbol of purity, but it also glowed with the colors of the aurora. She was known across the land for her wisdom and gentle spirit. Lyria's best friend was a wise old tortoise named Morwen, who had lived for hundreds of years and had seen the world evolve.
 
-The door led to a magical garden unlike any she had ever seen. The flowers glowed in vibrant colors, and the trees seemed to whisper stories as the wind rustled their leaves. Isabella marveled at the beauty around her. As she walked deeper into the garden, she encountered a group of talking animals.
+One morning, as the dew sparkled on the grass, a young child named Esme stumbled into the glade. Esme was lost, having wandered far from her village in search of adventure. Lyria approached Esme and spoke in a voice that sounded like a melody, "Do not be afraid, young one. You are safe here."
 
-A wise old owl greeted her, saying, "Welcome, Princess Isabella. We have been waiting for you." The owl introduced her to a cheerful squirrel, a gentle deer, and a mischievous fox. Together, they led her to a sparkling pond where a majestic unicorn stood drinking.
+Esme's eyes widened in surprise, but she felt no fear. Instead, she felt a sense of peace. "I am Esme," she replied. "I'm looking for a way to help my village; the crops have been failing and the river is drying up."
 
-The unicorn spoke, "Princess, you have a kind heart, and this garden is your reward. Here, you will find adventure, friendship, and the secrets of the past." Isabella spent her days exploring the garden's wonders, uncovering hidden treasures and ancient stories.
+Lyria lowered her head to Esme's level. "Your courage has brought you here. There is a way to help your village, but it involves a journey to the Crystal Mountain. At its peak, you will find the Heart Crystal, which has the power to heal the land."
 
-One day, Isabella discovered a treasure chest filled with jewels and ancient scrolls. The scrolls revealed the history of the magical garden and the enchanted kingdom it was a part of. Isabella, with her new friends, vowed to protect the garden and its secrets.
+Morwen, the tortoise, moved slowly towards them. "Remember, Esme, the journey is not just a test of endurance but also of heart. The path to the Crystal Mountain is filled with challenges that will require kindness, bravery, and intelligence."
 
-As the years passed, Isabella's adventures continued. She became known as the "Protector of the Enchanted Garden." The garden thrived under her care, and the kingdom flourished. But, the kingdom’s prosperity drew the eyes of a greedy neighboring king who sought to conquer the enchanted garden.
+Determined to save her village, Esme agreed. Lyria and Morwen decided to accompany her, guiding her through the forest. They traveled for days, encountering enchanted beings like the fireflies that could illuminate the darkest paths and the singing river that told stories of ancient times.
 
-On a stormy night, Isabella was alerted by the owl that the neighboring king's army was approaching. With a brave heart, she gathered her loyal friends and devised a plan. The talking animals, with their unique abilities, helped in creating defenses and traps. The unicorn, with its magic, enchanted the surrounding forest to protect against intruders.
+One evening, as the sun was setting, they met a mischievous sprite named Kipp who loved riddles. Kipp would only allow them to pass if they solved his riddle: "I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?"
 
-When the enemy army arrived, they were met with an enchanted forest that misled and confused them. The animals worked together, outsmarting the invaders without a single life lost. The neighboring king, realizing the futility of his conquest, retreated in defeat.
+Esme thought long and hard and then smiled. "An echo!" she exclaimed. Kipp clapped in delight and granted them safe passage.
 
-After the battle, the kingdom and the enchanted garden celebrated their victory. Stories of Princess Isabella's bravery spread far and wide. She continued to protect the garden, forging alliances with other kingdoms and ensuring peace.
+As they climbed higher, the air became thinner and the path steeper. They reached a cave guarded by a stone golem. The golem awoke and demanded proof of pure intentions. Esme, with Lyria and Morwen by her side, placed her hand on the golem and spoke from her heart about her love for her village and her desire to see it flourish. The golem, sensing the truth in her words, allowed them to pass.
 
-Isabella's legacy lived on for centuries. The enchanted garden became a symbol of unity, magic, and the triumph of good over greed. And so, Princess Isabella and her friends lived happily ever after, in a world where magic and wonder never ceased to exist.`,
+Finally, they reached the peak of Crystal Mountain. The Heart Crystal pulsed with vibrant energy, illuminating the entire mountain top. Esme approached it with reverence. As she touched the crystal, she felt a surge of warmth and love. The crystal's light spread across the land, rejuvenating the rivers and fields. 
 
-        dragon: `In a land filled with tall mountains and deep valleys, a young boy named Lucas lived in a small village. One day, while exploring the forest near his home, Lucas stumbled upon an abandoned dragon egg. Determined to care for it, he took it home and kept it warm.
+Lyria looked at Esme with pride. "You have done it, Esme. You have shown great courage and heart. Your village will thrive once more."
 
-Days turned into weeks, and one morning, the egg hatched. Out came a tiny dragon with shimmering green scales and bright blue eyes. Lucas named the dragon Ember. As Ember grew, Lucas discovered that the dragon had a gentle heart and a playful spirit. They soon became inseparable, sharing every moment together.
+Esme returned to her village with Lyria, Morwen, and a piece of the Heart Crystal. The village celebrated their return, and the land flourished. Esme grew up to be a wise leader, always remembering her friends and the magical journey that taught her the true power of love and courage.
 
-As the years passed, Ember became a magnificent dragon, strong and wise. Lucas and Ember would fly across the skies, exploring distant lands and discovering hidden places. One day, they learned that their village was in danger. A fierce storm had caused the river to overflow, threatening to flood the village.
+And so, the legend of Esme, Lyria, and Morwen lived on, inspiring generations to come with tales of bravery, friendship, and the magic that lies within the heart.`,
 
-Without hesitation, Lucas and Ember took action. Ember flew to the mountains and gathered large boulders, while Lucas organized the villagers to build a wall to protect their homes. Together, they succeeded in diverting the water and saving the village.
+        pirate: `On the shimmering waters of the Azure Sea, there sailed a daring pirate captain named Elena Stormchaser. With her trusty crew aboard the ship, The Whispering Gale, she embarked on thrilling adventures of discovery and plundering the vast ocean. Elena was not an ordinary pirate; she had a map that revealed hidden islands and lost treasure, passed down through her family's generations.
 
-Grateful for their heroism, the villagers celebrated with a grand feast. Lucas and Ember were hailed as heroes, and their bond grew stronger. As protectors of the village, they ensured the safety and prosperity of their home. They shared many adventures, facing challenges and discovering new wonders.
+One starry night, while anchored near a mysterious island, Elena dreamt of a hidden city known as Lumaria, a place filled with untold riches and ancient wisdom. Upon waking, she was determined to find this city. Gathering her crew, including her first mate, a clever parrot named Rico, and a skilled navigator named Finn, Elena set sail towards the unknown.
 
-One day, an old hermit visited the village. He told Lucas and Ember of a powerful artifact hidden deep within the mountains that could bring peace and prosperity to the entire region. Intrigued, they decided to seek out the artifact. Their journey was arduous; they faced snowstorms, treacherous paths, and mysterious creatures.
+The journey was perilous. They braved fierce storms that made the ship groan, and navigated through treacherous waters guarded by sea monsters. But Elena's courage never wavered. One afternoon, as the sun cast a golden hue over the waves, they sighted an island unlike any other. The island was shrouded in mist, and the air buzzed with a strange energy.
 
-During their quest, Lucas and Ember found themselves in an ancient cave. The walls were covered with glowing runes, and at its heart was the artifact – a crystal pulsating with immense energy. As Lucas approached, a guardian spirit emerged, testing their worthiness with a series of challenges. Together, Lucas and Ember showed their courage, wisdom, and compassion.
+Elena, Rico, and Finn disembarked, eager to explore. As they ventured deeper into the heart of the island, they discovered ancient ruins covered in ivy and symbols that glowed faintly. Rico, with his sharp eyes, noticed a pattern in the symbols. "These symbols form a path," he squawked, flapping his wings excitedly.
 
-Having proved themselves, they were granted the crystal. As they returned, they used the crystal's power to ensure abundant harvests, clear skies, and harmony among the tribes and creatures of the land.
+Following the symbols, they arrived at a towering gate made of crystal. At its center was a puzzle lock, which required the placing of colored gems in the correct order. Finn, recalling a legend his grandfather had told him, remembered the sequence that would unlock the gate: blue, green, and red.
 
-Lucas and Ember’s village flourished, becoming a beacon of hope and unity. They were loved and respected not just in their village, but across the entire region. Legends of their deeds spread far and wide, inspiring generations to come.
+With a satisfying click, the gate opened, revealing the entrance to Lumaria. The city was a marvel of ancient architecture and technology, with buildings made of crystal and streets paved with gold. At its heart was a majestic temple. They entered the temple and found an altar with the legendary Gem of Lumaria, a jewel said to grant immense knowledge and power.
 
-Lucas and Ember's bond remained unbreakable. They continued their quest for knowledge, exploring far-off lands, and making new friends and allies. They lived long and fulfilling lives, always together, always seeking new horizons.
+But as Elena reached for the gem, a guardian spirit appeared. "Only those with pure intentions may claim the Gem of Lumaria," the spirit intoned. Elena, with her hand on her heart, spoke earnestly, "I seek to share the wisdom of Lumaria with the world and safeguard its treasures for future generations."
 
-And so, their legend grew, a testament to the power of friendship, courage, and kindness. Lucas and Ember lived their days filled with joy and excitement, knowing that their bond was forged in the fires of adventure and tempered by the love of their people.`,
+The spirit, sensing her sincerity, granted her the gem. With the Gem of Lumaria in their possession, Elena and her crew returned to The Whispering Gale. The sea seemed calmer, and the journey back was swift. News of their discovery spread far and wide, and Elena became a legend among pirates.
 
-        spaceship: `Far above the clouds, in the vastness of space, a little spaceship named Stardust soared through the stars. Inside, a curious astronaut named Alex embarked on a journey of exploration. Stardust was equipped with advanced technology, enabling Alex to visit distant planets and galaxies.
+Elena used the knowledge gained from Lumaria to chart new territories and establish a sanctuary for adventurers and scholars, preserving the gem's power for the greater good. The Whispering Gale continued its voyages, seeking new horizons and untold stories.
 
-One day, while navigating through a cluster of asteroids, Alex received a signal from an unknown source. Following the signal, Stardust took Alex to a planet covered in vibrant hues of blue and green. Upon landing, Alex was greeted by a friendly alien named Zorin.
+Elena's legacy endured, a testament to bravery and discovery. Her adventures inspired countless tales and songs, and the map of Lumaria passed on, ensuring that its wonders would be protected and revered.
 
-Zorin explained that their planet, Lumina, was in need of help. The planet's core was losing energy, and the once-bright lights that illuminated their world were dimming. Moved by their plight, Alex decided to help. Working together with Zorin and the inhabitants of Lumina, Alex discovered that the energy source of their planet was a rare crystal hidden deep within the Lumina caverns.
+And so, Captain Elena Stormchaser's name was etched into the lore of the seas, a symbol of courage, wisdom, and the unquenchable thirst for adventure. The Whispering Gale sailed on, guided by the stars and the promise of new discoveries, its crew united by the spirit of exploration and the magic of Lumaria.`,
 
-With determination and courage, Alex and Zorin embarked on a journey to retrieve the crystal. They faced numerous challenges, from navigating treacherous terrain to solving ancient puzzles. Along the way, they encountered glowing plants, mysterious creatures, and hidden passages.
+        sorcerer: `In the ancient kingdom of Eldoria, magic was woven into the very fabric of life. Among the towering spires and mystical rivers, there lived a young sorcerer named Kael. Gifted in the art of elemental magic, Kael was known for his talent and curiosity. His mentor, the wise Archmage Elira, guided him in mastering his powers.
 
-After much effort, they reached the heart of the caverns and found the crystal. Its radiant energy filled the caverns, casting a warm glow. Alex carefully transported the crystal back to the surface, where it was connected to Lumina's core. The planet's lights began to shine once more, and the inhabitants rejoiced.
+One evening, as Kael was studying ancient scrolls in the library, he stumbled upon a prophecy that spoke of a great darkness threatening to engulf Eldoria. The key to stopping this darkness lay in the Crystal of Elements, a powerful artifact hidden deep within the Enchanted Forest. Determined to protect his kingdom, Kael set out on a journey to find the crystal.
 
-Grateful for Alex's bravery and kindness, the people of Lumina celebrated with a grand festival. Alex and Zorin shared stories of their journey, and Alex was honored as a hero. With Lumina restored, Alex resumed the journey through space, knowing that there were many more adventures awaiting.
+Elira, sensing the gravity of his quest, entrusted Kael with the Amulet of Ancients, an artifact that could harness the elements. She warned him of the forest's trials and the need for wisdom, courage, and heart. With the amulet hanging around his neck, Kael ventured into the unknown.
 
-As Stardust continued to soar through the cosmos, Alex cherished the memories of Lumina and the friendships forged. The journey was endless, filled with new discoveries and wonders beyond imagination.
+The Enchanted Forest was a place of wonder and peril. Trees whispered secrets, and the air was filled with the scent of ancient magic. Kael encountered many enchanted creatures, including a talking owl named Aurelius, who offered to guide him. "The path is fraught with challenges," Aurelius hooted. "But trust in yourself and the elements, and you will prevail."
 
-One day, Alex discovered an ancient star map aboard Stardust. The map led to an uncharted galaxy, rumored to hold the secrets of the universe. Intrigued, Alex set a course, venturing into the unknown. The journey was perilous, with cosmic storms and gravitational anomalies testing Stardust's resilience.
+As they journeyed deeper, Kael faced trials that tested his mastery of the elements. He used fire to fend off ice wolves, water to cross a chasm, and earth to calm a raging storm. His bond with the amulet grew stronger with each challenge, and he learned valuable lessons about balance and harmony.
 
-Upon reaching the galaxy, Alex was greeted by an advanced civilization known as the Celestians. They were beings of pure light, with knowledge spanning eons. The Celestians revealed that Alex had been chosen to share the wisdom of the stars with all beings. Alex spent years learning from the Celestians, understanding the balance of the universe and the interconnectedness of all life.
+One night, as they camped by a glowing pond, Aurelius told Kael about the Guardian of the Crystal, an ancient dragon named Draconis. The dragon would only give the crystal to one who proved their worth. With resolve, Kael approached the dragon's lair.
 
-With newfound knowledge, Alex returned to known space, sharing the teachings of the Celestians. Planets and civilizations benefited from the wisdom, ushering in an era of peace and prosperity. Alex's journey became a beacon of hope, inspiring explorers and dreamers across the cosmos.
+Draconis, with scales that shimmered like molten gold, emerged from the shadows. "Why do you seek the Crystal of Elements?" the dragon rumbled. Kael spoke from his heart, "To protect Eldoria from the darkness foretold in the prophecy and to ensure that magic remains a force for good."
 
-As the years passed, Alex continued to explore, always seeking new horizons and forging new friendships. Stardust became a legend, known throughout the galaxy as a symbol of adventure, knowledge, and unity. Alex's name was immortalized among the stars, a reminder of the endless possibilities that await those who dare to explore.
+The dragon's eyes gleamed with approval. "Very well, young sorcerer. Show me the strength of your heart and the balance of your mind." In a series of elemental trials, Kael combined his power with the amulet to create harmonious spells, embodying the unity of the elements.
 
-And so, Alex and Stardust's exploration continued, guided by the stars and the promise of new horizons. Their bond grew stronger with each journey, an unbreakable connection forged in the crucible of the cosmos. Together, they ventured into the unknown, knowing that the universe held infinite wonders and stories yet to be discovered. And thus, their legacy lived on, a testament to the power of curiosity, courage, and the enduring spirit of exploration.`,
+Satisfied with Kael's mastery and sincerity, Draconis granted him the Crystal of Elements. With the crystal in hand, Kael returned to Eldoria, where the darkness had begun to spread. Placing the crystal at the heart of the kingdom, he used his magic to amplify its power, banishing the darkness and restoring light and harmony.
+
+The kingdom rejoiced, and Kael was celebrated as a hero. With Elira's guidance, he continued to study and protect Eldoria, ensuring that the balance of magic was preserved. His journey had not only saved the kingdom but also deepened his understanding of the true nature of his powers.
+
+Kael's bravery became the stuff of legend, inspiring future generations of sorcerers. The Crystal of Elements remained a symbol of unity and strength, a reminder of the power that lies within a balanced heart and mind.
+
+And so, the kingdom of Eldoria thrived, its people living in harmony with the magic that flowed through their land. Kael's name was remembered with reverence, a testament to the enduring spirit of courage, wisdom, and the eternal quest for knowledge that defines the true essence of magic.`,
+
     };
 
     return stories[topic.toLowerCase()] || `Once upon a time, in a place not too far away, there was a wonderful adventure that began with the topic of ${topic}. The story unfolded with unexpected twists and delightful moments, leaving everyone with a heartwarming tale to remember.`;
